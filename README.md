@@ -9,4 +9,4 @@
 <a href="https://instagram.com/calixto_nascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### 📊 GitHub estatísticas:
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calixtonascimento&layout=compact&langs_count=8&theme=dracula"/>
+<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calixtonascimento&layout=compact&langs_count=8&text_color=FFFFFF&&title_color=FFFFFF&bg_color=282A36"/>
