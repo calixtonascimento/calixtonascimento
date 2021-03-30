@@ -1,7 +1,7 @@
 ## Eaee!! Eu sou Calixto Nascimento 👋
 ### Um pouco sobre mim:
 - 🎓 Tecnólogo em Gestão da Tecnologia da Informação.
-- 🚀 Desenvolvedor Front-End em desenvolvimento
+- 🚀 Desenvolvedor Front-End em desenvolvimento.
 
 ### 📫 Entre em contato comigo:
 <a href = "mailto: calixtoalbea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
